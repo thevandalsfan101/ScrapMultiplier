@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace ScrapMultiplier
 {
-    [BepInPlugin("com.VandalFandal.Mods", "Scrap Multiplier Mod", "1.0.0")]
+    [BepInPlugin("com.VandalFandal.Mods", "Scrap Multiplier Mod", "1.0.1")]
     public class ScrapMultiplierPlugin : BaseUnityPlugin
     {
         public static ConfigEntry<float> ScrapMultiplierConfig;
